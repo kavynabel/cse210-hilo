@@ -1,0 +1,15 @@
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\bin\Debug\net6.0\cse210-hilo.exe
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\bin\Debug\net6.0\cse210-hilo.deps.json
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\bin\Debug\net6.0\cse210-hilo.runtimeconfig.json
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\bin\Debug\net6.0\cse210-hilo.dll
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\bin\Debug\net6.0\ref\cse210-hilo.dll
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\bin\Debug\net6.0\cse210-hilo.pdb
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.csproj.AssemblyReference.cache
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.AssemblyInfoInputs.cache
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.AssemblyInfo.cs
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.csproj.CoreCompileInputs.cache
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.dll
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\ref\cse210-hilo.dll
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.pdb
+C:\Users\12082\Desktop\CSE 210\cse210-hilo\obj\Debug\net6.0\cse210-hilo.genruntimeconfig.cache
